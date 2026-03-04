@@ -111,7 +111,7 @@ that deliver reliable and efficient digital solutions.
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,docker,firebase,aws,vscode,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,docker,firebase,aws,vscode,postman" />
 
 </td>
 
