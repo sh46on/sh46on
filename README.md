@@ -71,7 +71,7 @@ that deliver reliable and efficient digital solutions.
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,c" />
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
 
 </td>
 
@@ -79,7 +79,7 @@ that deliver reliable and efficient digital solutions.
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,angular" />
 
 </td>
 
@@ -91,7 +91,7 @@ that deliver reliable and efficient digital solutions.
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=django,flask" />
 
 </td>
 
@@ -99,7 +99,7 @@ that deliver reliable and efficient digital solutions.
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
 </td>
 
@@ -111,7 +111,7 @@ that deliver reliable and efficient digital solutions.
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,docker,firebase,aws,gcp,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,docker,firebase,aws,vscode,postman,vscode" />
 
 </td>
 
