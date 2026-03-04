@@ -225,15 +225,13 @@ Tech: **Django Authentication System**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sh46on&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh46on&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh46on&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh46on&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh46on&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sh46on&theme=tokyonight&hide_border=true"/>
 
 </div>
 
