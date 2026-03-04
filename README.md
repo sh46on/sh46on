@@ -34,7 +34,9 @@ that deliver reliable and efficient digital solutions.
 </a>
 
 <img src="https://img.shields.io/badge/💼_Open_to_Python/Django_Roles-1e1e2e?style=for-the-badge" />
-
+<a href="https://sharonvargheseofficial.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge" />
+</a>
 </p>
 
 </div>
